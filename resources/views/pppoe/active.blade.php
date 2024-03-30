@@ -30,17 +30,17 @@
                                 <thead>
                                     <tr>
                                         <th>No</th>
-                                        <th>Nama</th>
-                                        <th>Password</th>
+                                        <th>Name</th>
+                                        <th>Caller Id</th>
                                         <th>Service</th>
-                                        <th>Local-Address</th>
-                                        <th>Remote-Address</th>
+                                        <th>Address</th>
+                                        <th>Uptime</th>
                                     </tr>
                                 </thead>
                                 <tfoot>
                                     <tr>
                                         <th>No</th>
-                                        <th>Nama</th>
+                                        <th>Name</th>
                                         <th>Caller Id</th>
                                         <th>Service</th>
                                         <th>Address</th>
